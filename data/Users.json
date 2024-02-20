@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "d290",
+      "firstName": "Mervin",
+      "lastName": "kumar",
+      "phoneNumber": "8122541720",
+      "email": "pmervinkumar@gamil.com",
+      "Password": "8122541720",
+      "ConfirmPassword": "8122541720"
+    },
+    {
+      "id": "e42b",
+      "firstName": "sana",
+      "lastName": "catherine",
+      "phoneNumber": "9659951091",
+      "email": "s@gmail.com",
+      "Password": "12345678",
+      "ConfirmPassword": "12345678"
+    },
+    {
+      "id": "d7e1",
+      "firstName": "sana",
+      "lastName": "catherine",
+      "phoneNumber": "0965995109",
+      "email": "ss@gmail.com",
+      "Password": "9659951091",
+      "ConfirmPassword": "9659951091"
+    },
+    {
+      "id": "df37",
+      "firstName": "ajdfjalk",
+      "lastName": "jdklfdjalkj",
+      "phoneNumber": "0123456789",
+      "email": "feajdi@gmail.com",
+      "Password": "123456789",
+      "ConfirmPassword": "123456789"
+    }
+  ]
+}
