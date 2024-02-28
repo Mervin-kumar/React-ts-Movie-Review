@@ -1,5 +1,5 @@
 // Import necessary modules and components
-import axios from 'axios';
+import axios from "axios";
 import { useQuery } from 'react-query';
 import './Style.css';
 import { useEffect, useState } from 'react';
@@ -128,7 +128,10 @@ const Main: React.FC<MainProps> = ({ value, que }) => {
       const data = response.data.Search;
       return data;
   });
-refetch()
+  useEffect(()=>{
+    refetch()
+
+  },[que])
   const handleClick = (id: string) => {
       setIsId(id);
       setModal(true);
